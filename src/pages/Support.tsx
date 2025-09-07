@@ -55,7 +55,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('https://t.me/Managem124')}
+              onClick={() => window.open('https://t.me/Officialbluepay')}
             >
               Open Telegram
             </Button>
@@ -73,7 +73,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('https://wa.me/2347065234892')}
+              onClick={() => window.open('https://wa.me/2349082468216')}
             >
               Chat on WhatsApp
             </Button>
